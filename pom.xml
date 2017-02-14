@@ -1,5 +1,5 @@
-
-delVersion>4.0.0</modelVersion>
+<project>
+<modelVersion>4.0.0</modelVersion>
   <groupId>ca.uwo.csd.cs2212.sivanesan</groupId>
   <artifactId>sivanesan-lab5</artifactId>
   <packaging>jar</packaging>
